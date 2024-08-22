@@ -49,6 +49,6 @@ Collaborators: Yan Naing Aung and Venkatachalam Subramanian Periya Subbu
 * Highest Crime: Afternoons & Midnight, March & November/December, on Thursdays
 * Arrests has grown, but population has also risen across the county
 
-## Conclusion
+## Conclusion:
 
 Given Montgomery County's rapid growth, it's essential to address the concerning trend of higher crime rates and disproportionate arrests in certain areas. We propose a collaborative discussion with the Rockville Police Department and Montgomery County Police Department's District 6 to investigate the root causes of these issues. By working together, we can ensure that all members of our community feel safe, protected, and equitably served by law enforcement.
